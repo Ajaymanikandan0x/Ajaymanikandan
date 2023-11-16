@@ -836,6 +836,10 @@ a:hover {
 .about-mf .about-img img {
   margin-left: 10px;
 }
+.prof{
+  width: 14em;
+  height: 15em;
+}
 
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
@@ -948,6 +952,10 @@ a:hover {
 
 .work-box:hover img {
   transform: scale(1.3);
+}
+.Portfolioimg{
+  width: 29em;
+  height: 19em;
 }
 
 .work-img {
